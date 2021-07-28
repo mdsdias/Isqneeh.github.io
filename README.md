@@ -48,4 +48,3 @@ for (i = 0; i < 2; i++){
   <li>GitHub💻  - Isqneeh</li>
   <li>Repl.it💻 - @Isqne</li>
 </div>
-<script src="skill.js">
